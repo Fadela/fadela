@@ -1,35 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fadela
-==============================================================================================================================
+<h1 align="center" style="color:#ff69b4;">✨ Hello there, I'm Fadela Zidan! ✨</h1>
+<h3 align="center" style="color:#ff91a4;">Aspiring Artificial Intelligence Engineer | Backend Developer</h3>
 
-Backend Developer
------------------
-
-* 🌍  I'm based in Damascus
-* ✉️  You can contact me at [Fadela.zidan@gmail.com](mailto:Fadela.zidan@gmail.com)
-* 🧠  I'm learning Laravel
-* 🤝  I'm open to collaborating on any backend project
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Love-yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/Laravel-Expert-red" alt="Laravel" />
+  <img src="https://img.shields.io/badge/AI-Dreamer-purple" alt="AI Dreamer" />
 </p>
 
+---
 
-### Socials
+### 💖 About Me:
+- 🌸 **Graduation Year:** 2025 | Damascus University (AI Engineering)  
+- 🎀 Passionate about creating intelligent systems to solve meaningful problems.  
+- 🌱 **Currently Learning:** Advanced AI Techniques & Laravel  
+- 💕 I love collaborating on creative backend or AI projects!  
 
-<p align="left"> <a href="https://www.facebook.com/fadela.zidan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Fadela" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xella.zi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fadelazidan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@fadela.zidan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+### 🛠️ My Skills:
+- **Programming Languages:** Python 🐍, Java ☕, C++, C#, PHP 🌐, SQL  
+- **AI & Machine Learning:** TensorFlow, PyTorch, Computer Vision, CNN-LSTM models, RAG Architecture 🧠  
+- **Web Development:** Laravel, Django, Three.js ✨  
+- **Databases:** MySQL, Chroma Vector DB  
+- **Soft Skills:** Collaboration, Leadership, Communication ✍️  
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Fadela"><img src="https://github-readme-stats.vercel.app/api?username=Fadela&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fadela's GitHub stats" /></a>
+### 🌟 Projects I’m Proud Of:
+- **Scholara Assistant:**  
+  🌺 An AI-powered assistant helping students find scholarships, built with Llama3 and RAG architecture.  
+- **Breast Cancer Classification System:**  
+  🌸 Developed a neural network system using advanced backpropagation to classify breast cancer with precision.  
+- **Pharmacy Management System:**  
+  💕 Streamlined pharmacy workflows using Laravel to manage inventory and sales effortlessly.  
+
+---
+
+### 🎀 Achievements & Certifications:
+- 💫 Coursera – Machine Learning Specialization  
+- 💖 SHAI Club Training ML Program (2024)  
+- 🎉 ACM Competitions: DamascusCPC (2020, 2021)  
+
+---
+
+### 🎀 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadela&show_icons=true&theme=pink" alt="Fadela's GitHub Stats" />
+</p>
+
+---
+
+### 📱 Let’s Connect:
+- 🌸 **Email:** Fadela.Zidan@gmail.com  
+- 💕 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/fadelazidan/)  
+- 📞 **Phone:** (+963) 934197439  
+
+---
+
+### 🌼 Fun Fact:
+I believe technology can be magical when combined with creativity and purpose! 💖
